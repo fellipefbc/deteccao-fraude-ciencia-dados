@@ -2,6 +2,8 @@
 
 ## Disciplina: Ciência de Dados - Uniube
 
+Link Apresentação: https://youtu.be/hkPiYm87xSg
+
 Este projeto implementa um sistema de detecção de fraude em transações de cartão de crédito usando Python, Pandas, Scikit-learn, XGBoost e Streamlit.
 
 ### Como Executar
